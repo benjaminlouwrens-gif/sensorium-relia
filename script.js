@@ -48,38 +48,35 @@ const CONFIG = {
 const CARDS = [
   {
     tag: "relia", tagLabel: "RELIA · A", title: "Attunement & Integration",
-    body: "We weave new patterns into daily life — at home, work, and in relationships — so regulation becomes who you are, not something you perform.",
-    quote: "Lasting change in how the nervous system reads the world, responds to stress, and experiences self and others.",
+    body: "Practice new patterns in daily life so regulation becomes more accessible and sustainable.",
   },
   {
     tag: "relia", tagLabel: "RELIA · I", title: "Identity",
-    body: "We honor who you are, not just what you do — rewriting stories like “I'm too much” or “I can't cope” in a more compassionate, neurobiologically accurate way.",
+    body: "Explore self-understanding with greater flexibility, compassion, and awareness.",
   },
   {
     tag: "method", tagLabel: "Method · Exploring", title: "Sandplay",
-    body: "A tray of sand and miniature figures offers a free and protected space for the psyche to externalize and integrate what words can't reach — an approach Sanette is integrating.",
+    body: "A creative, symbolic process that can support reflection and self-discovery. Currently being explored as part of RELIA.",
   },
   {
     tag: "relia", tagLabel: "RELIA · L", title: "Listening",
-    body: "We slow down enough to hear the body inside — tension, breath, gut feelings — and relationships outside: tone, pacing, cues.",
-    quote: "Instead of drowning in sensations and emotions, you start to understand them and respond more flexibly.",
+    body: "Develop awareness of internal experiences and interpersonal cues.",
   },
   {
     tag: "method", tagLabel: "Method · Tomatis®", title: "Neuro-Auditory Listening",
-    body: "Tomatis® delivers filtered music through the ears and bone conduction, retuning the ear–brain connection so the nervous system reads sound, balance, and inner cues more clearly.",
+    body: "Filtered music delivered through air and bone conduction as part of the Tomatis® method.",
   },
   {
     tag: "method", tagLabel: "Method · Exploring", title: "HeartMath®",
-    body: "Heart-rate-variability biofeedback that trains coherence between heart and brain, nudging the autonomic system toward calm — an approach Sanette is exploring to support interoception.",
+    body: "Heart-rate variability biofeedback that may support awareness of physiological states. Currently being explored as part of RELIA.",
   },
   {
     tag: "relia", tagLabel: "RELIA · E", title: "Embodied",
-    body: "We work through the body, not just the head — movement, posture, breath, and play create new regulated states, strengthening interoception: the felt sense of what's happening inside.",
+    body: "Movement, breath, posture, sensory experiences, and play can deepen body awareness.",
   },
   {
     tag: "relia", tagLabel: "RELIA · R", title: "Relational",
-    body: "The taproot. A consistent, non-shaming, attuned relationship where your nervous system can finally relax and feel seen.",
-    quote: "Without relational safety, the nervous system will not risk new experiences.",
+    body: "A consistent, attuned relationship provides the foundation for the process.",
   },
 ];
 
